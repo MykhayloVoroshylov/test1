@@ -2,7 +2,7 @@ play=True
 while play==True:
     from random import randint
 
-    print ("hello!")
+    print ("hello! and welcome")
     player=input("rock(r), paper(p), or scissors(s)? ")
     print(player, "vs")
 
